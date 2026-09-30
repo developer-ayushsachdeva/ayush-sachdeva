@@ -8,7 +8,7 @@ import htmlIcon from './assets/html.svg';
 import cssIcon from './assets/css.svg';
 import reactIcon from './assets/react.svg';
 import tailwindIcon from './assets/tailwindcss.svg';
-import fastapiIcon from './assets/FASTAPI.svg';
+import fastapiIcon from './assets/FastAPI.svg';
 import mysqlIcon from './assets/sql.svg';
 import springbootIcon from './assets/springboot.svg';
 import gitIcon from './assets/git.svg';
