@@ -4,8 +4,6 @@ A modern personal developer portfolio built to showcase my projects, technical s
 
 ## 🚀 Live Portfolio
 
-**[Visit my portfolio](https://ayush-sachdeva.vercel.app)**
-
 ## 👨‍💻 About Me
 
 I'm Ayush Sachdeva, a B.Tech Information Technology student at Galgotias College, graduating in 2028.
