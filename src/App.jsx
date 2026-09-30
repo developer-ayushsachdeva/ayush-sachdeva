@@ -23,7 +23,7 @@ import avatar from './assets/ayush-avatar.png';
 import portfolioSS from './assets/portfolioSS.png';
 import AI_Interview from './assets/AI_Interview.png';
 import groq from './assets/groq.svg'
-
+import resume from "./assets/Ayush_Intern__Copy_(1).pdf";
 // Import project screenshots here (e.g. import portfolioScreenshot from './assets/portfolio-ss.png';)
 
 const socialLinks = [
@@ -289,7 +289,7 @@ export default function App() {
                     <FileText size={14} className="text-emerald-400" /> View Resume
                   </a>
                   <a 
-                    href="/resume.pdf" 
+                    href={resume}
                     download="Ayush_Resume.pdf"
                     className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-emerald-950/40 hover:text-emerald-400 text-xs text-gray-200 transition-all duration-200"
                   >
