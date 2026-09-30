@@ -1,16 +1,77 @@
-# React + Vite
+# Ayush Sachdeva — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern personal developer portfolio built to showcase my projects, technical skills, experience, and journey as a software developer.
 
-Currently, two official plugins are available:
+## 🚀 Live Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**[Visit my portfolio](https://ayush-sachdeva.vercel.app)**
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm Ayush Sachdeva, a B.Tech Information Technology student at Galgotias College, graduating in 2028.
 
-## Expanding the ESLint configuration
+I'm focused on software development, Data Structures & Algorithms, backend development, and AI/ML.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Currently building projects with Java, Spring Boot, Python, React, and modern web technologies.
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- C
+- JavaScript
+- SQL
+
+### Development
+- React
+- Vite
+- Tailwind CSS
+- Spring Boot
+- FastAPI
+- REST APIs
+
+### Databases & Tools
+- PostgreSQL
+- Git & GitHub
+- Postman
+- Linux
+
+### AI / ML
+- Python
+- Machine Learning
+- NLP
+- RAG
+- LLM APIs
+
+## 📌 Featured Projects
+
+### Smart Document Intelligence
+A structure-aware document question-answering system designed to work across multiple uploaded PDF documents using semantic retrieval and RAG.
+
+### NearNest
+A full-stack location-based community platform built with Spring Boot, React, and PostgreSQL.
+
+### AI Interview Platform
+An AI-powered interview platform built with FastAPI, React, and OpenAI integration.
+
+### Developer Portfolio
+This portfolio itself — built using React, Vite, Tailwind CSS, and Three.js.
+
+## 📊 Currently Learning
+
+- Data Structures & Algorithms
+- Java & Spring Boot
+- Backend Development
+- Machine Learning
+- AI / LLM Applications
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/developer-ayushsachdeva
+- LinkedIn: https://www.linkedin.com/
+- Portfolio: https://ayush-sachdeva.vercel.app
+
+---
+
+⭐ If you find something interesting here, feel free to explore the projects.
