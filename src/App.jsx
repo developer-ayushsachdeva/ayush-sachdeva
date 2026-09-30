@@ -281,7 +281,7 @@ export default function App() {
               {showResumeMenu && (
                 <div className="absolute top-8 right-0 bg-[#080d0a] border border-white/10 rounded-xl p-2 shadow-2xl min-w-[160px] flex flex-col gap-1 z-50">
                   <a 
-                    href="/resume.pdf" 
+                    href={resume}
                     target="_blank" 
                     rel="noreferrer"
                     className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-emerald-950/40 hover:text-emerald-400 text-xs text-gray-200 transition-all duration-200"
